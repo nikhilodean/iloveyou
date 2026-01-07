@@ -2,7 +2,7 @@
 
 const GRID_SIZE = 6;
 const TOTAL_PIECES = GRID_SIZE * GRID_SIZE;
-const IMAGE_PATH = 'jungle.png';
+const IMAGE_PATH = 'puzzle.jpg';
 
 let pieces = [];
 let draggedPiece = null;
